@@ -1,0 +1,132 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Century Gothic;
+
+
+}
+
+
+.backcolour{
+    background-color: rgb(78, 129, 240);
+}
+.radious{
+    border-radius: 20px;
+    transition-duration: 0.4s;
+    border-radius: 40px;
+    border: 0;
+    font-size: medium;
+    padding: 1rem 2rem;
+    white-space: nowrap;
+    margin: 4px 2px;
+    cursor: pointer;
+    
+}
+.democls {
+    background-color: darkgoldenrod
+}
+
+.background {
+    height: 1000px;
+    width: 100;
+}
+
+.color {
+    color: azure;
+}
+
+.text-alignment {
+    text-align: center;
+
+}
+
+.center {
+    text-align: center;
+}
+
+.shadow {
+    box-shadow: inset;
+}
+
+
+.color {
+    height: 500%;
+    width: 200;
+
+}
+
+.cards-wrapper {
+    display: flex;
+
+}
+
+.card {
+    margin: 0 .5em;
+    width: calc(100%3);
+}
+
+.alignLeft {
+    padding-left: 100px;
+}
+
+.color {
+
+    color: white;
+}
+
+.addline {
+    margin-top: 5px;
+}
+.bold{
+    font-weight: bold;
+}
+
+.font {
+    font-weight: bold;
+}
+.color{
+    background-color:rgb(226, 223, 195);
+    color: black;
+}
+
+.card-wrapper {
+    display: flex;
+}
+.btncol{
+    background-color: rgb(75, 109, 221);
+    color: rgb(251, 251, 251);
+    transition-duration: 0.4s;
+   
+    border-radius: 40px;
+    border: 0;
+    font-size: medium;
+    padding: 1rem 2rem;
+    white-space: nowrap;
+    margin: 4px 2px;
+    cursor: pointer;
+    
+}
+.text-center{
+    text-align: center;
+    justify-content: center;
+}
+.center{
+    text-align: center;
+}
+.text{
+    text-align: center;
+    
+}
+.card-title{
+    text-align: center;
+}
+.radious1{
+    border-radius: 60px;
+    border: 0;
+    font-size: medium;
+    padding: 2rem 4rem;
+    white-space: nowrap;
+    margin: 4px 6px;
+    cursor: pointer;
+    
+}

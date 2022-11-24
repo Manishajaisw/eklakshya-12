@@ -1,0 +1,41 @@
+.contentcenter1{
+    justify-content: center;
+    text-align:center;
+}
+.contentcenter{
+    justify-content: center;
+    text-align:center
+}
+
+.textChnage{
+    font-size: 50px;
+}
+
+.space{
+    padding-left: 35px;
+    padding-right: 55px;
+    font-style:italic;
+    font-size:large;
+    box-shadow:inset;
+   
+}
+  
+.center{
+    justify-content: center;
+    text-align: center;
+}
+
+    .radious{
+        border-radius: 20px;
+        transition-duration: 0.4s;
+        border-radius: 40px;
+        border: 0;
+        font-size: medium;
+        padding: 1rem 2rem;
+        white-space: nowrap;
+        margin: 4px 2px;
+        cursor: pointer;
+    }
+    .backcolour{
+        background-color: rgb(78, 129, 240);
+    }
